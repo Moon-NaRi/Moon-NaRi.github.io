@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:code11298@naver.com"
+       url: mailto:code11298@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
        url: "https://github.com/Moon-NaRi"
