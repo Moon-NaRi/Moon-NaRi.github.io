@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Yujin Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ocp01.png"
   bio              : "mad fet it!"
   location         : "South Korea"
   email            :
@@ -113,15 +113,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:code11298@naver.com"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      # url: "https://twitter.com/"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
        url: "https://github.com/Moon-NaRi"
@@ -132,21 +123,9 @@ author:
 # Site Footer
 footer:
   links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-      # url:
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
        url: "https://github.com/Moon-NaRi"
-#    - label: "Bitbucket"
-#      icon: "fab fa-fw fa-bitbucket"
-      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
        url: "https://www.instagram.com/meow_jean_s"
