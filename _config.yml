@@ -112,23 +112,23 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:code11298@naver.com
+      url: "mailto:code11298@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Moon-NaRi"
+      url: "https://github.com/Moon-NaRi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/meow_jean_s"
+      url: "https://www.instagram.com/meow_jean_s"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Moon-NaRi"
+      url: "https://github.com/Moon-NaRi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/meow_jean_s"
+      url: "https://www.instagram.com/meow_jean_s"
 
 
 # Reading Files
