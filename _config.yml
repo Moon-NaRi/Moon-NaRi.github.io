@@ -16,18 +16,18 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mad fer it"
+title                    : "Anywhere I Go"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Moon-Nari"
-description              : "Biblical"
+description              : "mad fer it!"
 url                      : "https://Moon-Nari.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Moon-Nari/Moon-Nari.github.io"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
- breadcrumbs            : true # true, false (default)
+# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jennie Kim"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mad Fet It!"
-  location         : "Asia/Seoul"
-  email            : "code11298@naver.com"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:code11298@naver.com"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Moon-NaRi"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
