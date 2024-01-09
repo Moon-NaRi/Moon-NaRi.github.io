@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Anywhere I Go"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "You and I are gonna live forever"
 name                     : "Moon-Nari"
 description              : "moon-nari's github blog"
 url                      : "https://Moon-Nari.github.io"
