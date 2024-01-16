@@ -1,0 +1,25 @@
+---
+layout: single
+title:  "Problem"
+categories: servicenow
+tag: [servicenow, ITSM, CIS]
+toc: true
+author_profile: false
+---
+
+# Knowledge
+## Articles
+### Unknown Error Articles
+- plugin : com.snc.best_practice.problem.madrid.knowledge
+### Access
+- User Criteria and User Roles
+
+# State
+## Problem Task
+- moving a problem task from one state to another : ProblemTaskStateUtils
+
+# Roles
+## Can Close
+- problem_coordinator
+- problem_administrator
+- problem_manager
