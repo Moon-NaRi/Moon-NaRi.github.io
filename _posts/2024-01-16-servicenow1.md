@@ -18,7 +18,85 @@ author_profile: false
 - User Criteria and User Roles
 
 # State
-## Problem Task
+### New
+
+![image-20240118163211192](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163211192.png?raw=true)
+
+- Mandatory field : Problem statement
+- When you insert problem statement, Related Search is auto-populated.
+- Button : Assess
+
+
+
+### Assess
+
+- Mandatory field : Assign to
+
+![image-20240118163424077](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163424077.png?raw=true)
+
+ → Mandatory field dialog pop-up.
+
+![image-20240118163534732](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163534732.png?raw=true)
+
+- Button
+
+  - Confirm
+
+    → Root Cause Analysis
+
+  - Mark Duplicate
+
+    ![image-20240118163709350](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163709350.png?raw=true)
+
+  - Cancel
+
+    ![image-20240118163737705](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163737705.png?raw=true)
+
+
+
+### Root Cause Analysis
+
+- Button
+
+  - Fix
+
+    ![image-20240118164132131](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118164132131.png?raw=true)
+
+  - Mark Duplicate
+
+  - Cancel
+
+  - Accept Risk
+
+    ![image-20240118163959170](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163959170.png?raw=true)
+
+    *state can be changed on problem property.*
+
+
+
+### Fix in Progress
+
+- Button
+  - Resolve
+  - Re-Analyze : Go back to Root Cause Analysis.
+  - Accept Risk
+
+
+
+### Resolved
+
+- Button
+  - Complete
+  - Re-Analyze
+
+
+
+### Closed
+
+
+
+### Problem Task
+
 - moving a problem task from one state to another : ProblemTaskStateUtils
 
 # Roles
@@ -32,14 +110,15 @@ author_profile: false
 - Can Read
 - Can Update problem task
 - Can Close problem task
+- Cannot Delete problem task!!!
 
 ## Problem_Coordinator
 
-- Have all of roles what problem_admin have, but <span style='background-color: #fff5b1'>Cannot Delete & Manage problem properties</span>!!
+- Have all of roles what problem_admin have, but <span style='background-color: #8A2BE2'>Cannot Delete & Manage problem properties</span>!!
 
 ## ITIL
 
-- Have all of roles what itil_admin have, but <span style='background-color: #fff5b1'>Cannot Delete</span>!!
+- Have all of roles what itil_admin have, but <span style='background-color: #8A2BE2'>Cannot Delete</span>!!
 
 ## ITIL_Admin
 
@@ -48,10 +127,10 @@ author_profile: false
 - Can Update
 - Can Delete
 - Add related Incidents
-- <span style='background-color: #fff5b1'>Cannot Close</span>
-- <span style='background-color: #fff5b1'>Cannot Communicate workaround, fix</span>
-- <span style='background-color: #fff5b1'>Cannot Create known error articles</span>
-- <span style='background-color: #fff5b1'>Cannot Manage problem properties</span>
+- <span style='background-color: #8A2BE2'>Cannot Close</span>
+- <span style='background-color: #8A2BE2'>Cannot Communicate workaround, fix</span>
+- <span style='background-color: #8A2BE2'>Cannot Create known error articles</span>
+- <span style='background-color: #8A2BE2'>Cannot Manage problem properties</span>
 
 
 
@@ -75,3 +154,34 @@ author_profile: false
 - Search Catalog Item
 - Request Catalog
 - Create Incident
+
+
+
+# Problem Properties
+
+[ ] Accept Risk moves the Problem to Closed state instead of Resolved state
+
+[ ] Can create a Problem Task on a Closed Problem?
+
+[ ] Cancel open Problem Tasks when closing a Problem
+
+[ ] Can Re-Assess a Problem Task on a Closed Problem?
+
+[ ] Copy attachments from the incident
+
+[ ] Allow problem creation from interaction
+
+[ ] Create saved problem (interaction)
+
+- Who can Re-analyze a Canceled Problem? ( & admin)
+
+- Who can Re-analyze a Risk Accepted (Closed state) Problem?
+- Who can Re-analyze a Completed Problem?
+- Who can relate closed Incidents to a Problem?
+- Who can Re-assess a Completed or Canceled Problem Task?
+
+![image-20240118164933209](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118164933209.png?raw=true)
+
+![image-20240118164947399](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118164947399.png?raw=true)
+
+  

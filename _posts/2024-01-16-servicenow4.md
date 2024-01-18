@@ -9,7 +9,7 @@ author_profile: false
 
 ![image-20240116164530078](../images/2024-01-16-servicenow4/image-20240116164530078.png?raw=true)
 
-- Change Type : <span style='background-color: #fff5b1'>Emergency, Normal, Standard(Preapproved)</span>
+- Change Type : <span style='background-color: #8A2BE2'>Emergency, Normal, Standard(Preapproved)</span>
 
 
 
@@ -58,6 +58,13 @@ Anyone has approved, but not all approvers have approved.
 ### Closed
 
 - Mandatory field : Close code, Close notes
+
+
+
+### Modify change state model
+
+- Script Includes : ChangeRequestStateModel
+- Table : Model States (sttrm_state)
 
 
 
@@ -111,3 +118,16 @@ New → Scheduled → Implement → Review → Close / Canceled
 # Roles
 
 ![changerole](../images/2024-01-16-servicenow4/changerole.jpg?raw=true)
+
+- Admin has all of roles.
+
+## itil_admin + itil
+
+- Cannot create, update and delete(but not itil) CAB definition
+- Cannot facilitate and refresh CAB meeting
+- Cannot create standard change proposal & policy & decision record & model
+
+## Change_manager
+
+- Can read change record
+- Can create standard change proposal & policy & decision record & model
