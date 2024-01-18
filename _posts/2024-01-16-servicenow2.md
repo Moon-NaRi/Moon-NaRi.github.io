@@ -15,7 +15,7 @@ True or False: Within a Catalog Item, a 'Container Split' formatter is required 
 
 Answer : false
 
-![image-20240116163733839](../images/2024-01-16-servicenow2/image-20240116163733839.png?raw=true)
+![image-20240116163733839](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/d14583ad999d4f03ba2b108b16ff176dc4262656/images/2024-01-16-servicenow2/image-20240116163733839.png?raw=true)
 
 열에 따라서 나뉘는 거 맞는데 왜 false지 ?
 
