@@ -20,7 +20,7 @@ author_profile: false
 # State
 ### New
 
-![image-20240118163211192](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163211192.png?raw=true)
+![image-20240118163211192](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118163211192.png?raw=true)
 
 - Mandatory field : Problem statement
 - When you insert problem statement, Related Search is auto-populated.
@@ -32,11 +32,11 @@ author_profile: false
 
 - Mandatory field : Assign to
 
-![image-20240118163424077](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163424077.png?raw=true)
+![image-20240118163424077](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118163424077.png?raw=true)
 
  → Mandatory field dialog pop-up.
 
-![image-20240118163534732](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163534732.png?raw=true)
+![image-20240118163534732](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118163534732.png?raw=true)
 
 - Button
 
@@ -46,11 +46,11 @@ author_profile: false
 
   - Mark Duplicate
 
-    ![image-20240118163709350](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163709350.png?raw=true)
+    ![image-20240118163709350](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118163709350.png?raw=true)
 
   - Cancel
 
-    ![image-20240118163737705](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163737705.png?raw=true)
+    ![image-20240118163737705](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118163737705.png?raw=true)
 
 
 
@@ -60,7 +60,7 @@ author_profile: false
 
   - Fix
 
-    ![image-20240118164132131](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118164132131.png?raw=true)
+    ![image-20240118164132131](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118164132131.png?raw=true)
 
   - Mark Duplicate
 
@@ -68,7 +68,7 @@ author_profile: false
 
   - Accept Risk
 
-    ![image-20240118163959170](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118163959170.png?raw=true)
+    ![image-20240118163959170](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118163959170.png?raw=true)
 
     *state can be changed on problem property.*
 
@@ -180,8 +180,8 @@ author_profile: false
 - Who can relate closed Incidents to a Problem?
 - Who can Re-assess a Completed or Canceled Problem Task?
 
-![image-20240118164933209](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118164933209.png?raw=true)
+![image-20240118164933209](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118164933209.png?raw=true)
 
-![image-20240118164947399](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240118164947399.png?raw=true)
+![image-20240118164947399](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/81f188fe28c5ef0fa91f97e9e36cc6416f562ded/images/2024-01-16-servicenow1/image-20240118164947399.png?raw=true)
 
   
