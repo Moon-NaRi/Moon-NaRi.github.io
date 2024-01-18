@@ -71,7 +71,7 @@ Script includes that has SNC in their names has paired script includes with the 
 
 Answer : ⭕
 
-![pairedscriptincludes](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow5\image-20240118153544279.png?raw=true)
+![pairedscriptincludes](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/b978fa4004939b0d766b304398febd5717931ab9/images/2024-01-16-servicenow5/image-20240118153544279.png?raw=true)
 
 Script includes with SNC in the name are read-only, baseline code. 
 
@@ -83,9 +83,9 @@ According to the OOTB implementation, you can only create normal change or emerg
 
 Answer : ⭕
 
-![image-20240118162116026](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow5\image-20240118162116026.png?raw=true)
+![image-20240118162116026](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/b978fa4004939b0d766b304398febd5717931ab9/images/2024-01-16-servicenow5/image-20240118162116026.png?raw=true)
 
-![image-20240118162210990](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow5\image-20240118162210990.png?raw=true)
+![image-20240118162210990](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/b978fa4004939b0d766b304398febd5717931ab9/images/2024-01-16-servicenow5/image-20240118162210990.png?raw=true)
 
 
 
@@ -95,7 +95,7 @@ Every Catalog Item uses the same workflow to manage approvals.
 
 Answer : ❌
 
-![image-20240118170909051](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow5\image-20240118170909051.png?raw=true)
+![image-20240118170909051](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/b978fa4004939b0d766b304398febd5717931ab9/images/2024-01-16-servicenow5/image-20240118170909051.png?raw=true)
 
 each catalog item has own workflow / flow
 
