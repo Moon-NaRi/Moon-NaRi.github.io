@@ -22,7 +22,7 @@ author_profile: false
 - moving a problem task from one state to another : ProblemTaskStateUtils
 
 # Roles
-## ![IMG_3498](../images/2024-01-16-servicenow1/IMG_3498.jpg?raw=true)
+## ![IMG_3498](../images/2024-01-16-servicenow1/IMG_3498.jpg)
 
 - Admin and problem_admin have all of roles except for updating related incidents count
 
