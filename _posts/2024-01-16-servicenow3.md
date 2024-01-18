@@ -44,7 +44,7 @@ author_profile: false
 
 # Modules
 
-![image-20240118153140673](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow3\image-20240118153140673.png?raw=true)
+![image-20240118153140673](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/7d745b350e35dac48b852330ca2d3c3af4ed221d/images/2024-01-16-servicenow3/image-20240118153140673.png?raw=true)
 
 - Search keyword : Knowledge > Administration > Search Log
 
@@ -62,7 +62,7 @@ author_profile: false
 
 - featured content (kb_knowledge_keyword)
 
-![image-20240118152456904](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow3\image-20240118152456904.png?raw=true)
+![image-20240118152456904](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/7d745b350e35dac48b852330ca2d3c3af4ed221d/images/2024-01-16-servicenow3/image-20240118152456904.png?raw=true)
 
 - It's stored in kb_knowledge.
 
