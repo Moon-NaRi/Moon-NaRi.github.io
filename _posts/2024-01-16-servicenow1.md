@@ -12,7 +12,7 @@ author_profile: false
 ### Unknown Error Articles
 - plugin : com.snc.best_practice.problem.madrid.knowledge
 
-![image-20240116161800231](../images/2024-01-16-servicenow1/image-20240116161800231.png?raw=true)
+![image-20240116161800231](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/611c332dcb52e6037b4f0adf9b8e9d5fb4315677/images/2024-01-16-servicenow1/image-20240116161800231.png?raw=true)
 
 ### Access
 - User Criteria and User Roles
@@ -22,7 +22,7 @@ author_profile: false
 - moving a problem task from one state to another : ProblemTaskStateUtils
 
 # Roles
-## ![IMG_3498](../images/2024-01-16-servicenow1/IMG_3498.jpg?raw=true)
+## ![IMG_3498](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/611c332dcb52e6037b4f0adf9b8e9d5fb4315677/images/2024-01-16-servicenow1/IMG_3498.jpg?raw=true)
 
 - Admin and problem_admin have all of roles except for updating related incidents count
 
@@ -66,7 +66,7 @@ author_profile: false
 5. Search "virtual agent"
 6. Use virtuall agent service portal widget
 
-![image-20240116162338677](../images/2024-01-16-servicenow1/image-20240116162338677.png?raw=true)
+![image-20240116162338677](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/611c332dcb52e6037b4f0adf9b8e9d5fb4315677/images/2024-01-16-servicenow1/image-20240116162338677.png?raw=true)
 
 
 
