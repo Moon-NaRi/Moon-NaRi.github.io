@@ -30,7 +30,7 @@ author_profile: false
 
 - Available For / Not Available For
 
-![image-20240118161036238](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-18-servicenow_catalogItem\image-20240118161036238.png?raw=true)
+![image-20240118161036238](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/5260e00ea482f37b5abc73be17169de8101a19b8/images/2024-01-18-servicenow_catalogItem/image-20240118161036238.png?raw=true)
 
 - Users / Groups / Roles / Companies / Locations / Departments
 
