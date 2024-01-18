@@ -14,7 +14,7 @@ author_profile: false
 
 ## New
 
-![image-20240118153902504](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-18-servicenow_incident\image-20240118153902504.png?raw=true)
+![image-20240118153902504](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/25ca0a8ca8fc11de7c3b50152bc5075dcb3271e4/images/2024-01-18-servicenow_incident/image-20240118153902504.png?raw=true)
 
 - Caller and short description are mandatory fields.
 - Impact and Urgency is used to calculate priority.
@@ -50,13 +50,13 @@ author_profile: false
 # Roles
 
 - User with no assigned roles can read an incident when they are caller, opened by or on the watch list.
-- VIP Users : ![image-20240118170255249](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-18-servicenow_incident\image-20240118170255249.png?raw=true)
+- VIP Users : ![image-20240118170255249](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/25ca0a8ca8fc11de7c3b50152bc5075dcb3271e4/images/2024-01-18-servicenow_incident/image-20240118170255249.png?raw=true)
 
 
 
 # Priority Lookup Tables
 
-![image-20240118165628716](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-18-servicenow_incident\image-20240118165628716.png?raw=true)
+![image-20240118165628716](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/25ca0a8ca8fc11de7c3b50152bc5075dcb3271e4/images/2024-01-18-servicenow_incident/image-20240118165628716.png?raw=true)
 
 
 
