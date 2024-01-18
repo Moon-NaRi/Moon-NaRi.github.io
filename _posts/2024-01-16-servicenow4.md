@@ -105,3 +105,9 @@ New → Scheduled → Implement → Review → Close / Canceled
 **After creating change, there is no option for change.**
 
 ![image-20240116173809331](../images/2024-01-16-servicenow4/image-20240116173809331.png?raw=true)
+
+
+
+# Roles
+
+![changerole](../images/2024-01-16-servicenow4/changerole.jpg?raw=true)
