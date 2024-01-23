@@ -9,6 +9,8 @@ author_profile: false
 
 # Version
 
+- PlugIn : Knowledge Management Advanced Installer
+
 ## Legacy
 
 - Categorization
@@ -30,6 +32,13 @@ author_profile: false
 
 - ts_query_kb
 
+### FeedBack [kb_feedback]
+
+- Flags
+- Helpful(Yes/No)
+- Comments
+- Star Rating
+
 
 
 # Roles
@@ -50,11 +59,20 @@ author_profile: false
 
 
 
+# Workflow
+
+- Knowledge - Instant Publish
+- Knowledge - Approval Publish
+- Knowledge -  Instant Retire
+- Knowledge - Approval Retire
+
+
+
 # Knowledge base
 
 - KB can have own workflow.
 
-
+- Base table for Knowledge [kb_knowledge]
 
 
 
@@ -66,3 +84,15 @@ author_profile: false
 
 - It's stored in kb_knowledge.
 
+## State
+
+- Draft → Review → Scheduled for publish → Published
+
+- Pending retirement → Retired
+- Outdated
+
+## Creating way
+
+- Direct creation by a user with the 'knowledge' role.
+- Import from a Microsoft Word document.
+- Generated from Incident or problem records.

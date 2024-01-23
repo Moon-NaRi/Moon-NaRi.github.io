@@ -9,6 +9,13 @@ author_profile: false
 
 - Incident may be caused by Changes Investigation of Incidents may indicate the need for a Change.
 - You can use pre-defined constant in server-side code(Script Includes, Business Rule, UI Action)
+- You can't create change request from inactive incidents.
+- Inbound actions can be configured to enable creating or updating incidents.
+- Category and subcategory is stored by Choice[sys_choice]
+- Duration[calendar_duration] : Total elapsed time between when an incident is created until the time it's resolved.
+- Reduction in the time services are unavailable.
+
+
 
 # State
 
@@ -26,12 +33,14 @@ author_profile: false
 ## On hold
 
 - On hold reason is mandatory field.
+- Resolved → On hold : Reopen
 
 
 
 ## Resolved
 
 - Resolution code and Resolution notes are mandatory.
+- If a user is caller and state is resolved, even if user has no roles, A user can close an incident.
 
 
 
@@ -62,3 +71,37 @@ author_profile: false
 
 # Incident Properties
 
+
+
+# Parent - Child Incident
+
+- <span style='background-color: #8A2BE2'>State, Close Note, Close Code, Comments, Worknote</span> → they are updated on child incident based on parent incident update.
+
+
+
+# Knowledge
+
+[X] Knowledge
+
+​	it will create a draft knowledge article once the incident is closed.
+
+
+
+# Life Cycle
+
+![lifecycle_incident](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-18-servicenow_incident\lifecycle_incident.jpg?raw=true)
+
+- Creation and Classification
+  - Create new & locate
+  - Define & Classify
+  - Assign
+- Investigation and Diagnosis
+  - Locate assigned incident
+  - Investigate & diagnose
+  - Update incident activity
+  - Escalate
+  - Monitor
+- Resolution and Closure
+  - Restore service
+  - Update incident activity
+  - Communicate

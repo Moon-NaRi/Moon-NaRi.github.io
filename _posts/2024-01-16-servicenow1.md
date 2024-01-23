@@ -7,7 +7,10 @@ toc: true
 author_profile: false
 ---
 
+- If workaround is populated and incident is associated with the problem record, There's a 'Communicate Workaround' in related links.
+
 # Knowledge
+
 ## Articles
 ### Unknown Error Articles
 - plugin : com.snc.best_practice.problem.madrid.knowledge
@@ -98,6 +101,12 @@ author_profile: false
 ### Problem Task
 
 - moving a problem task from one state to another : ProblemTaskStateUtils
+- Type
+  - Root Cause Analysis
+  - General
+
+
+![image-20240123173832103](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow1\image-20240123173832103.png?raw=true)
 
 # Roles
 ## ![IMG_3498](https://github.com/Moon-NaRi/Moon-Nari.github.io/blob/611c332dcb52e6037b4f0adf9b8e9d5fb4315677/images/2024-01-16-servicenow1/IMG_3498.jpg?raw=true)

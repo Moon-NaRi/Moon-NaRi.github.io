@@ -1,14 +1,13 @@
 ---
 layout: single
-title:  "Roles"
+title:  "ETC"
 categories: servicenow
 tag: [servicenow, ITSM, CIS]
 toc: true
 author_profile: false
 ---
 
-
-
-# System admin
-
-- Can delete CAB definitions.
+- System admin can delete CAB definitions.
+- ATF plugin
+  - com.glide.automated_testing_impl.service_catalog
+  - com.glide.automated_testing_impl.service_catalog_portal

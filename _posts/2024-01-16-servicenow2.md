@@ -34,3 +34,43 @@ In Change Management, manually added change tasks allow the Change owner to main
 Answer : ❌
 
 manually하게 생성 가능하고 그룹이나 유저에게 assign도 되는데 왜... 아니란거지...?
+
+
+
+🤔
+
+Which of the following approaches is used to display a variable from a requested item on a Catalog Task form?
+
+Answer : B) In the Catalog Task Activity within the Item's fulfillment workflow, select variables to be displayed in the Variables on Task Form field.
+
+
+
+🤔
+
+Which of the following may NOT be published in a Service Catalog?
+
+![image-20240119155159802](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow2\image-20240119155159802.png?raw=true)
+
+A) Requested Item
+
+B) Record Producer
+
+C) Order Guide
+
+D) Content Item
+
+Answer : A
+
+A도 요청 제출하면 가능하지 않나 ?..
+
+
+
+🤔
+
+For the majority of Catalog Items, the customer requires Quantity and Price to be displayed. However, for one item, the customer would like to omit these two fields. Which of the following approaches should be used to satisfy this requirement?
+
+C) Set 'Use cart layout' to false on the Catalog Item and set both 'No Quantity' and 'Omit Price in Cart' to true.
+
+대부분의 카탈로그 항목에 대해 고객은 수량과 가격을 표시해야 합니다. 그러나 한 항목에 대해 고객은 이 두 가지 필드를 생략하려고 합니다. 다음 중 이 요구 사항을 충족하기 위해 사용해야 하는 방법은 무엇입니까?
+
+C) 카탈로그 항목에서 '카트 레이아웃 사용'을 false로 설정하고 '수량 없음'과 '카트 가격 생략'을 모두 true로 설정합니다.

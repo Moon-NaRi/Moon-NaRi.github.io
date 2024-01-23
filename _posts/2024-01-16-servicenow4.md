@@ -11,6 +11,15 @@ author_profile: false
 
 - Change Type : <span style='background-color: #8A2BE2'>Emergency, Normal, Standard(Preapproved)</span>
 
+- Life Cycle : Creation and scope → Approval → Implementation → Closure
+
+- Conflict detection : Change > Administration > Conflict Properties
+  - CI / 부모 CI / 자식 CI 에게 같은 시간에 이미 스케쥴이 잡혀 있을 때
+  - CI / 부모 CI / 자식 CI 가 maintenance window에 있지 않을 때
+  - CI / 부모 CI / 자식 CI 가 blackout window에 있을 때
+  - assigned person에게 같은 시간에 이미 스케쥴이 있을 때
+- CAB Date is auto-populated when change is added to a CAB meeting agenda.
+
 
 
 # Normal Change
@@ -101,7 +110,9 @@ New → Scheduled → Implement → Review → Close / Canceled
 
 # Task
 
+## Task workflow
 
+- It includes standard, administrative tasks common to all Normal changes
 
 # Incident
 
@@ -112,6 +123,12 @@ New → Scheduled → Implement → Review → Close / Canceled
 **After creating change, there is no option for change.**
 
 ![image-20240116173809331](../images/2024-01-16-servicenow4/image-20240116173809331.png?raw=true)
+
+
+
+# Problems
+
+- When you copy from problem into a change, attributes can be modified from UI acion script. !!!NOT PROPERTIES!!!
 
 
 
@@ -131,3 +148,21 @@ New → Scheduled → Implement → Review → Close / Canceled
 
 - Can read change record
 - Can create standard change proposal & policy & decision record & model
+
+
+
+# Workflow
+
+![image-20240119162708378](C:\Users\User\Documents\Workspace\Moon-Nari.github.io\images\2024-01-16-servicenow4\image-20240119162708378.png?raw=true)
+
+- task : subworkflow
+- approval : workflow
+
+
+
+# Tables
+
+### change_task_sla
+
+- task_sla
+- change_task
